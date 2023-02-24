@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ProyectoIntegrador\ProyectoIntegrador\bin\Debug\ProyectoIntegrador.exe.config
+C:\Users\User\source\repos\ProyectoIntegrador\ProyectoIntegrador\bin\Debug\ProyectoIntegrador.exe
+C:\Users\User\source\repos\ProyectoIntegrador\ProyectoIntegrador\bin\Debug\ProyectoIntegrador.pdb
+C:\Users\User\source\repos\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.PrincipalForm_GUI.resources
+C:\Users\User\source\repos\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.GUI.Recharge_GUI.resources
+C:\Users\User\source\repos\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.Properties.Resources.resources
+C:\Users\User\source\repos\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.exe
+C:\Users\User\source\repos\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.pdb
+C:\Users\User\source\repos\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.GUI.UserManagment_GUI.resources
+C:\Users\User\source\repos\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.GUI.Login_GUI.resources
